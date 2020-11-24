@@ -9,3 +9,4 @@ the attributes includes different kind of possible weather and changes in the at
 ## Setting up the Decision Tree
 We will be using train/test split on our decision tree
 ## Modeling
+<image src="images/play.png">
